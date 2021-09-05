@@ -2,9 +2,8 @@
 分布式表转储工具，能够将mysql分表数据导出到sqlite本地文件中。
 
 # 名词解释
-## 项目（project）
+## 项目
 包括一个具体的分布式表相关的配置（conf/项目.conf）、表内的数据（data/项目.db3）等。需要使用dtd进行初始化项目从而得到一个项目。
-
 
 # 特性
 1. 支持分库、分表数据合并
@@ -72,3 +71,4 @@ yum install dtd
 2. 用户通过sqlite3命令行工具（windows、mac、centos等都自带这个工具）即可对项目产出的db3文件进行操作，支持sql查询、自定义格式导出等，具体参考：https://www.runoob.com/sqlite/sqlite-commands.html
 
 # License
+DTD is under the MIT License. See the LICENSE file for details.
