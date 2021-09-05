@@ -1,4 +1,4 @@
-# DTD (Distributed tables dump) 
+# DTD (Distributed Tables Dump) 
 分布式表转储工具，能够将mysql分表数据导出到sqlite本地文件中。
 
 # 名词解释
