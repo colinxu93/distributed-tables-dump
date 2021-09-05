@@ -18,7 +18,7 @@
 
 ## go get安装 - todo
 ```shell
-go get github.com/colinxu/dtd
+go get github.com/colinxu93/dtd
 ```
 
 ## brew (mac)  - todo
